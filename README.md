@@ -19,7 +19,7 @@ Retrieve Values.yaml locally
 ## Install this Chart
 Then, you can install the charts by:
 
-    $ helm install <<release name>> <<chart-name>> -n <<namespace>> -f <<localtion of values.yaml>>
+    $ helm install <<release name>> <<chart-name>>/ssd -n <<namespace>> -f <<localtion of values.yaml>>
  
 ## Upgrade this Chart
 To upgrade the SSD deployment
